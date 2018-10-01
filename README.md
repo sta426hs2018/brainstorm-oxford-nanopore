@@ -34,3 +34,5 @@ Reuter JA, Spacek D, Snyder MP. High-Throughput Sequencing Technologies. Molecul
 * [Paper on performance of Oxford Nanopore Technology](https://www.sciencedirect.com/science/article/pii/S2214753515000224)
 * [A first look](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12324)
 * [Advantages of long reads for genome assembly](https://nanoporetech.com/sites/default/files/s3/white-papers/WGS_Assembly_white_paper.pdf?submissionGuid=40a7546b-9e51-42e7-bde9-b5ddef3c3512)
+
+![Technology](/Oxford-Nanopore.png)
