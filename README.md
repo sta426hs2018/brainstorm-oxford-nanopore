@@ -14,6 +14,11 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 * Depending on DNA-base, different electric current
 * By measuring the electric current, it's possible to sequence the DNA
 
+## Advantage
+
+* Cheap
+* Small
+
 ## Useful links	
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies)
