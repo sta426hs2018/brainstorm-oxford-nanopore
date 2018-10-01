@@ -29,3 +29,4 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 * [Wikipedia](https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies)
 * [Oxford Nanopore](nanoporetech.com)
 * [Paper on performance of Oxford Nanopore Technology](https://www.sciencedirect.com/science/article/pii/S2214753515000224)
+* [A first look] (https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12324)
