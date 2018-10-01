@@ -18,6 +18,7 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 
 * Cheap
 * Small / Portability
+* rapid processing -> display results in real time
 
 ## Disadvantage
 
