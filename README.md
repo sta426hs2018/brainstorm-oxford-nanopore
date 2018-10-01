@@ -1,5 +1,4 @@
 # STA426 Group3 - Oxford Nanopore
-![Logo](/Oxford-Nanopore.png)
 
 ## How it works
 
