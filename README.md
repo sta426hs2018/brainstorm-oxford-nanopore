@@ -40,3 +40,5 @@ Reuter JA, Spacek D, Snyder MP. High-Throughput Sequencing Technologies. Molecul
 * [Advantages of long reads for genome assembly](https://nanoporetech.com/sites/default/files/s3/white-papers/WGS_Assembly_white_paper.pdf?submissionGuid=40a7546b-9e51-42e7-bde9-b5ddef3c3512)
 
 ![Technology](/Oxford-Nanopore.png)
+
+Group members: Vivian Leung, Samuel Pavel, Charlotte Micheloud, Sandra Siegfried, Mauro Schläpfer, Tobias Hoch
