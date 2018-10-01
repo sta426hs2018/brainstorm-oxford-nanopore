@@ -19,6 +19,10 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 * Cheap
 * Small
 
+## Disadvantage
+
+* High error rate
+
 ## Useful links	
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies)
