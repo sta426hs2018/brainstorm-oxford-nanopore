@@ -24,7 +24,9 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 ## Disadvantage
 
 * High error rate
+"insertion, deletion and substitution rates of 4.9%, 7.8% and 5.1%, respectively" (Jain et al., 2015 in Reuter, Spacek and Snyder, 2015).
 
+Reuter JA, Spacek D, Snyder MP. High-Throughput Sequencing Technologies. Molecular cell. 2015;58(4):586-597. doi:10.1016/j.molcel.2015.05.004.
 ## Useful links	
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies)
