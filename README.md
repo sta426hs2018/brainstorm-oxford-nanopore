@@ -1,7 +1,6 @@
 # STA426 Group3 - Oxford Nanopore
 
-
-## What is it (Definition from Wikipedia)
+## What it is (Definition from Wikipedia)
 
 Nanopore sequencing uses electrophoresis to transport an unknown sample through an orifice of 10^−9 meters in diameter. A nanopore system always contains an electrolytic solution- when a constant electric field is applied, an electric current can be observed in the system. The magnitude of the electric current density across a nanopore surface depends on the nanopore’s dimensions and the composition of DNA or RNA that is occupying the nanopore. Sequencing is made possible because, when close enough to nanopores, samples cause characteristic changes in electric current density across nanopore surfaces. The total charge flowing through a nanopore channel is equal to the surface integral of electric current density flux across the nanopore unit normal surfaces between times t1 and t2.
 
@@ -10,9 +9,11 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 
 ## How it works
 
-* Enzyme splits up DNA/RNA, leads one strand in nanopore
-* Depending on DNA/RNA-base, different electric current
-* By measuring the electric current, it's possible to sequence the DNA/RNA
+* Prior to sequencing, adapters are ligated to both ends of genomic DNA or cDNA fragments and are leaded through the pore
+* The sensor detects changes in ionic current caused by differences in the shifting nucleotide sequences occupying the pore. These ionic current changes are segmented as discrete events that have an associated duration, mean amplitude, and variance.
+* This sequence of events is then interpreted computationally as a sequence of 3–6 nucleotide long kmers (‘words’) using graphical models.
+
+![How it works](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-016-1103-0/MediaObjects/13059_2016_1103_Fig1_HTML.gif)
 
 ## Advantage
 
