@@ -43,4 +43,4 @@ Reuter JA, Spacek D, Snyder MP. High-Throughput Sequencing Technologies. Molecul
 ![Technology](/Oxford-Nanopore.png)
 
 ## Group members
-Vivian Leung, Samuel Pavel, Charlotte Micheloud, Sandra Siegfried, Mauro Schläpfer, Tobias Hoch
+Vivian Leung, Samuel Pawel, Charlotte Micheloud, Sandra Siegfried, Mauro Schläpfer, Tobias Hoch
