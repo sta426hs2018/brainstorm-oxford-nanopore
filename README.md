@@ -24,9 +24,12 @@ Nanopore sequencing uses electrophoresis to transport an unknown sample through 
 * Cheap
 * Small / Portability
 * Rapid processing -> display results in real time
+* Long sequence reads 
+* Doesn't require PCR for library preparation
 
 ## Disadvantage
 
+* Low throughput
 * High error rate
 "insertion, deletion and substitution rates of 4.9%, 7.8% and 5.1%, respectively" (Jain et al., 2015 in Reuter, Spacek and Snyder, 2015).
 
